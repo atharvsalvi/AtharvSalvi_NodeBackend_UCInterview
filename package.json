@@ -1,5 +1,25 @@
 {
   "dependencies": {
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2",
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "name": "atharvsalvi_nodebackend_ucinterview",
+  "version": "1.0.0",
+  "main": "task1(optional).js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atharvsalvi/AtharvSalvi_NodeBackend_UCInterview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atharvsalvi/AtharvSalvi_NodeBackend_UCInterview/issues"
+  },
+  "homepage": "https://github.com/atharvsalvi/AtharvSalvi_NodeBackend_UCInterview#readme",
+  "description": ""
 }
